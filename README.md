@@ -1,1 +1,2 @@
-# bookStore
+#BookStore
+This is my bookStore prototype
